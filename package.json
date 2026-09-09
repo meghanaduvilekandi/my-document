@@ -1,0 +1,23 @@
+{
+  "name": "my-document",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meghanaduvilekandi/my-document.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/meghanaduvilekandi/my-document/issues"
+  },
+  "homepage": "https://github.com/meghanaduvilekandi/my-document#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^22.20.2"
+  }
+}
